@@ -1,0 +1,10 @@
+[package]
+name = "boids"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+bevy = "0.16.1"
+bevy_egui = "0.34.1"
+egui = "0.31.1"
+rand = "0.9.1"
